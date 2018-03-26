@@ -28,7 +28,7 @@ Your VIP code side by side to when you connect to SL VPN.
 
 If you want to know more about this try the following, very cool read:
 
-Reverse engineering the Symantec VIP Access Provisioning Protocol. 
+Reverse engineering the Symantec VIP Access Provisioning Protocol  
 [https://www.cyrozap.com/2014/09/29/reversing-the-symantec-vip-access-provisioning-protocol/]()
 
 If you want to make the experience better for all of us, fork the project and add a pull request. Some ideas:
