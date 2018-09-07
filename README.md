@@ -15,7 +15,7 @@ Your VIP code side by side to when you connect to SL VPN.
 2. `$ sudo pip install lxml oath PyCrypto requests`
 3. `$ sudo pip install .`
 4. `$ vipaccess provision -t SYMC`
-5. Call Soflayer at **XXX-XXX-4500** and tell them you'd like to **add another credential ID from Symantec VIP, say you got a new work phone**, then give them the **SYMCXXXXXXXX** number from step 4 (You can have up to 3 credential ID tied to your SL account). 
+5. Call Soflayer at **XXX-XXX-4500** and tell them you'd like to **add another credential ID from Symantec VIP, say you got a new work phone**, then give them the **SYMCXXXXXXXX** number from step 5 (You can have up to 3 credential ID tied to your SL account). 
 6. Make openconnect run without sudo by adding following line (it's likely that vi editor opens up, if so ask google or some vi jedi for help on how to add text to file and save)  
 `$ sudo visudo`
 >%admin  ALL=(ALL) NOPASSWD: /usr/local/bin/openconnect
